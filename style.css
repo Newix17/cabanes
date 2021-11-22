@@ -1,0 +1,54 @@
+body{
+    background-color: white;
+    background-image: url(./images/fond32.png);
+    background-size: 100vw;
+    ;
+}
+
+#menu{
+
+}
+
+
+
+#container1{
+    float: left;
+    padding: 0 10px;
+    position: relative;
+    width:300px;
+    height:500px;
+    border-radius:0.5em;
+    background:rgba(34, 32, 32, 0.808);
+}
+
+#container1:hover{
+    background: rgba(34, 32, 32, 0.950);
+}
+
+#txt_img1{
+    position: absolute;
+    color:lightgrey;
+}
+
+#timbre{
+    position:absolute ;
+    margin-top: 98%;
+    margin-left: 48%;
+}
+
+#container2{
+    float:right;
+    content: "";
+    position: relative;
+    }
+
+#img1{
+    width:300px;
+    height:500px;
+    border-radius: 0.5em;
+}
+
+#txt_img2{
+    position: absolute;
+}
+
